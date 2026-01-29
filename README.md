@@ -1,15 +1,16 @@
-# **Mohammed Gani - Data Science Portfolio**
+# **Mohammed Gani Hajamohideen - Data Science Portfolio**
 
 ## **About Me**  
-Hi, I’m **Mohammed Gani**, a passionate Data Analyst/Data Scientist with over **4.5 years of experience** in data engineering and analytics. I specialize in using **Python, SQL, and Tableau** to uncover meaningful insights and solve business problems. My portfolio highlights projects that demonstrate expertise in data exploration, visualization, and predictive modeling.  
+Hi, I’m **Mohammed Gani Hajamohideen**, a Data Scientist with 6+ years of experience applying data analytics, statistical modeling, and machine learning to solve real-world business problems across manufacturing, telecom, healthcare, and financial domains. I specialize in turning complex datasets into actionable insights through analytics, predictive models, and data storytelling.
 
 ---
 
-## **Skills**  
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- **Databases**: SQL (MySQL)  
-- **Visualization Tools**: Tableau, Matplotlib, Seaborn  
-- **Key Skills**: Data Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, Dashboard Development, Predictive Modeling  
+## **Core Expertise**
+- **Programming & Analytics:** Python, SQL  
+- **Data Science:** Exploratory Data Analysis (EDA), Feature Engineering, Statistical Modeling, Hypothesis Testing  
+- **Machine Learning:** Supervised & Unsupervised Learning, Time Series Forecasting (ARIMA, SARIMAX, Prophet), Recommender Systems  
+- **Visualization & BI:** Tableau, Excel, Matplotlib, Seaborn  
+- **Data Systems:** SQL-based data pipelines, industrial and financial datasets  
 
 ---
 
@@ -24,5 +25,3 @@ Hi, I’m **Mohammed Gani**, a passionate Data Analyst/Data Scientist with over 
 | **Yulu Bike Demand Case Study** | EDA, Visulization, Hypothesis Testing         | Predicted electric bike demand in various seasons and conditions, leveraging statistical testing and ML. | Python (Pandas, Scikit-learn)    | [View Project](https://github.com/mohammedganih/yulu-business-case-study 'Yulu Case Study')                          |    
 
 ---
-
-Feel free to customize further, especially with real links to your projects or GitHub repositories!
